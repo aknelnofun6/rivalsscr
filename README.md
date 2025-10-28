@@ -1,0 +1,2 @@
+# rivalsscr
+Auto-generated repository
